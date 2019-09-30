@@ -1,4 +1,4 @@
-%serie de Fourier de uma onda quadrada
+%Série de Fourier de uma onda quadrada
 close all
 
 t1=-pi:0.001:-(pi/2);
